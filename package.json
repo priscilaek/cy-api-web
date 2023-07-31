@@ -1,0 +1,20 @@
+{
+  "name": "test-cypress",
+  "version": "1.0.0",
+  "description": "api-web-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "api",
+    "web",
+    "cypress"
+  ],
+  "author": "Priscila Elias",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.2"
+  }
+}
